@@ -4,8 +4,8 @@ La famosa escritora Anne Baileys prepara el próximo lanzamiento de su libro. Pa
 
 Le interesa conseguir al menos los siguientes datos:
 
-Nombre
-Email
-Género
-Edad
+1. Nombre
+2. Email
+3. Género
+4. Edad
 
