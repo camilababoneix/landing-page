@@ -10,10 +10,10 @@ body {
 }
 
 img#img-anne {    
-    border: 10px solid black;
-    border-right: 10px solid black;
-    border-bottom: 10px solid black;
-    height: 190px;
+    border: 10px solid rosybrown;
+    border-right: 10px solid rosybrown;
+    border-bottom: 10px solid rosybrown;
+    height: 350px;
     width: auto;    
 }
 
